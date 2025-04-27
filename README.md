@@ -13,7 +13,7 @@ I'm a PhD student in Operations Research at the Naval Postgraduate School, focus
 
 ## 📂 Highlighted Projects
 - [GPU Busy Beaver Solver](https://github.com/larrywigington/BusyBeaverGPU) — GPU-accelerated exploration of Busy Beaver Turing Machines
-- [Numerical Linear Algebra Visualizer (Coming Soon)](https://github.com/larrywigington/NumericalVisualizer) — Animated educational notebooks for Krylov methods, sparse solvers, and optimization algorithms
+- [Numerical Linear Algebra Visualizer (Coming Soon)](https://github.com/larrywigington/NLA-Visualize) — Animated educational notebooks for Krylov methods, sparse solvers, and optimization algorithms
 - [Example Open Source Contributions](https://github.com/larrywigington?tab=repositories&q=&type=fork) — CuPy, RAPIDS, SciPy (coming)
 
 ---
