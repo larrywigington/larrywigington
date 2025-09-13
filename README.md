@@ -37,4 +37,4 @@ I'm a PhD student in Operations Research at the Naval Postgraduate School, focus
 
 ---
 
-> *"Optimization is not just about better answers — it's about better decisions, faster, and at greater scale."* — Larry Wigington
+> *"Optimization isn't just about better answers — it's about better decisions, faster."*
