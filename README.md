@@ -13,8 +13,7 @@ I'm a PhD student in Operations Research at the Naval Postgraduate School, focus
 ---
 
 ## 📂 Highlighted Projects
-
-- [**BusyBeaverGPU**](https://github.com/larrywigington/BusyBeaverGPU) — GPU-accelerated exploration of Busy Beaver Turing Machines
+- [**Terminal Assistant**](https://github.com/larrywigington/AITerminal) - Simple Ollama based CLI tool to assist with terminal commands and coding questions
 - [**NLA-Visualize**](https://github.com/larrywigington/NLA-Visualize) — Animated GPU/CPU visualizations of numerical linear algebra and optimization algorithms
 - [**NLA-Teaching-Notebooks**](https://github.com/larrywigington/NLA-Teaching-Notebooks) — Educational Jupyter Notebooks covering numerical linear algebra and optimization with clear theory, clean code, and reproducible examples
 
