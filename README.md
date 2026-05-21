@@ -1,32 +1,38 @@
-# 👋 Hi, I'm Larry Wigington
+# Hi, I'm Larry Wigington
 
-I'm a PhD student in Operations Research at the Naval Postgraduate School, focused on **GPU-accelerated optimization**, **numerical linear algebra**, and **distributed scientific computing**.
-
----
-
-## 🔭 Current Research and Projects
-
-- 🚀 Developing **GPU-accelerated solvers** for stochastic linear programs and large-scale optimization problems
-- 📚 Building **educational platforms** with animated visualizations and clean teaching notebooks
-- 🔥 Actively contributing to **open-source projects** in Python, CUDA, and the scientific computing ecosystem
+PhD Candidate in Operations Research at the Naval Postgraduate School. My research focuses on **GPU-accelerated first-order methods** for large-scale stochastic linear programs — building fast solvers for hard problems.
 
 ---
 
-## 🎤 Community and Teaching
+## Current Work
 
-- 📣 Speaker @ **International Conference on Stochastic Programming 2025** (Paris)  
-  *Talk: "Solving Stochastic Programs with GPUs: A Literature Review"*
-- 📋 Poster Presenter @ **SIAM Northern and Central California Sectional Conference (NCC25)**  
-  *Poster: "Solving Stochastic Linear Programs on GPUs"*
-- ✍️ Writing articles on GPU optimization, computational linear algebra, and distributed computing ([Website](https://www.larrywigington.com))
+- Dissertation: GPU-accelerated splitting methods (SCS/ADMM) for two-stage stochastic linear programs
+- [`or-gpu-cookbook`](https://github.com/larrywigington/or-gpu-cookbook) — worked CuPy examples for OR practitioners
+- Benchmarking GPU sparse linear algebra on stochastic programming problem families
 
 ---
 
-## 📫 Connect With Me
+## Talks and Presentations
 
-- 🌐 [Personal Website](https://www.larrywigington.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/larrywigington/)
-- 📬 GitHub Discussions and Issues — Always open for collaboration!
+- **SIAM Conference on Optimization (OP26)** — Edinburgh, June 2026
+  *GPU-Accelerated Methods for Stochastic Programming*
+- **International Conference on Stochastic Programming (ICSP 2025)** — Paris
+  *Solving Stochastic Programs with GPUs: A Literature Review*
+- **SIAM Northern and Central California Sectional (NCC25)** — Poster
+  *Solving Stochastic Linear Programs on GPUs*
+
+---
+
+## Interests
+
+Convex optimization · Sparse linear algebra · GPU computing · Scientific computing · Operations research
+
+---
+
+## Connect
+
+- [larrywigington.com](https://www.larrywigington.com)
+- [LinkedIn](https://www.linkedin.com/in/larrywigington/)
 
 ---
 
